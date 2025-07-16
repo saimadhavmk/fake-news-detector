@@ -1,3 +1,4 @@
+
 # 📰 Fake News Detection Web App
 
 This is a machine learning project that detects whether a given news article is **real or fake** using NLP techniques.
@@ -30,3 +31,7 @@ git clone https://github.com/yourusername/fake-news-detector
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# fake-news-detector
+AI-based Fake News Detection using Machine Learning and Streamlit
+
